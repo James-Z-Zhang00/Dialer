@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dialer</string>
+    <string name="call">Anruf</string>
+    <string name="del">Lös</string>
+    <string name="copy">Exemplarnummer</string>
+</resources>
