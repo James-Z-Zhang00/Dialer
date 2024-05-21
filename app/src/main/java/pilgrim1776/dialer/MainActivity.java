@@ -1,15 +1,4 @@
-/***
- *
- *                  Android Dial Application (version 2.3)
- *
- *                  by
- *
- *                  James W. Chamberlain (Zijian Zhang)
- *
- *                  July 31st 2022
- *                  Auckland, NZL
- *
- ***/
+
 
 package pilgrim1776.dialer;
 
