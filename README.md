@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android Dial Application (version 2.3)
 
 By
@@ -19,3 +20,6 @@ Auckland, NZL
 # Back end
 
 
+=======
+# Dialer
+>>>>>>> origin/main
