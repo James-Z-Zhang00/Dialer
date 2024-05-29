@@ -13,15 +13,15 @@ The project was made by 3 parts:
 
 The portrait and  view, button labels are beautified by `spannableString`
 
-<img width="618" alt="Screen Shot 2024-05-29 at 12 07 18 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/a902eaac-ca70-4197-9f0f-3b92e414f822">
+<img width="618" alt="Screen Shot 2024-05-29 at 12 07 18 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/a902eaac-ca70-4197-9f0f-3b92e414f822">  
 
 The landscape view
 
-<img width="504" alt="Screen Shot 2024-05-29 at 12 07 09 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/3a115987-56e7-475f-a533-c8e3d5a8a8d8">
+<img width="504" alt="Screen Shot 2024-05-29 at 12 07 09 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/3a115987-56e7-475f-a533-c8e3d5a8a8d8">  
 
 The UI was built by nested `LinearLayout`, scales are vary for different screen sizes
 
-<img width="730" alt="Screen Shot 2024-05-29 at 12 09 40 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/eebe0f60-52c0-450a-a83e-c6930ccf5f06">
+<img width="730" alt="Screen Shot 2024-05-29 at 12 09 40 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/eebe0f60-52c0-450a-a83e-c6930ccf5f06">  
 
 ## Back End Java Logic
 
@@ -131,10 +131,10 @@ Use variables for each string
 
 The supported languages: English, German, Russian and Spanish
 
-<img width="797" alt="Screen Shot 2024-05-29 at 1 25 18 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/9de1c1dd-8848-47db-9362-2e3f0b7ee075">
+<img width="797" alt="Screen Shot 2024-05-29 at 1 25 18 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/9de1c1dd-8848-47db-9362-2e3f0b7ee075">  
 
 The language of the app will change as the system settings change
 
-<img width="505" alt="Screen Shot 2024-05-29 at 1 27 25 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/8bce06e5-3374-4039-a562-4093753c1006">  \  \  \
+<img width="505" alt="Screen Shot 2024-05-29 at 1 27 25 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/8bce06e5-3374-4039-a562-4093753c1006">  
 
 <img width="498" alt="Screen Shot 2024-05-29 at 1 27 47 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/987adba4-f97a-4153-97c7-868427386e51">
