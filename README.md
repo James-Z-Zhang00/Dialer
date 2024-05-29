@@ -130,3 +130,12 @@ Use variables for each string
 ```
 
 The supported languages: English, German, Russian and Spanish
+
+<img width="498" alt="Screen Shot 2024-05-29 at 1 27 47 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/987adba4-f97a-4153-97c7-868427386e51">
+
+The language of the app will change as the system settings change
+
+<img width="505" alt="Screen Shot 2024-05-29 at 1 27 25 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/8bce06e5-3374-4039-a562-4093753c1006">
+
+<img width="797" alt="Screen Shot 2024-05-29 at 1 25 18 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/9de1c1dd-8848-47db-9362-2e3f0b7ee075">
+
