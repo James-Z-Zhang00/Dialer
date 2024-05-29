@@ -135,6 +135,6 @@ The supported languages: English, German, Russian and Spanish
 
 The language of the app will change as the system settings change
 
-<img width="505" alt="Screen Shot 2024-05-29 at 1 27 25 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/8bce06e5-3374-4039-a562-4093753c1006">  \  
+<img width="505" alt="Screen Shot 2024-05-29 at 1 27 25 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/8bce06e5-3374-4039-a562-4093753c1006">  \  \  \
 
 <img width="498" alt="Screen Shot 2024-05-29 at 1 27 47 PM" src="https://github.com/James-Z-Zhang00/Dialer/assets/144994336/987adba4-f97a-4153-97c7-868427386e51">
