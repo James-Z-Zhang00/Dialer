@@ -118,4 +118,15 @@ Some basic information about the app and icon setting
     </application>
 ```
 
+Multilingual support
 
+Use variables for each string
+
+```xml
+<string name="app_name">Dialer</string>
+<string name="call">Call</string>
+<string name="del">Del</string>
+<string name="copy">Copy Number</string>
+```
+
+The supported languages: English, German, Russian and Spanish
